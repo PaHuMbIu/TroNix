@@ -1,0 +1,8 @@
+# Default ignored files
+/../../cdn-telegram-app /.idea/shelf/
+/../../cdn-telegram-app /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../cdn-telegram-app /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../cdn-telegram-app /.idea/dataSources/
+/../../cdn-telegram-app /.idea/dataSources.local.xml
